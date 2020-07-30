@@ -3,3 +3,9 @@ Support contact available on Twitter : <a href="https://twitter.com/ThePlaceForA
 Operator with more than 20 years experience.
 
 
+
+
+
+<a href="https://cardano.org/stake-pool-operation/">Stake pool operation on Cardano.org</a>
+
+
