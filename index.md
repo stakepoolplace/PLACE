@@ -1,3 +1,5 @@
+<html>
+<body>
 Pledge locked for 10 years, 24/7/365 Uptime. Pool based on a high availability Debian 10 server hosted in datacenter France OVH. 
 Support contact available on :
 <ul>
@@ -7,3 +9,5 @@ Support contact available on :
 <br>Operator with more than 20 years experience.<br>
 
 You can contact me also on : <a href="mailto:place-stake-pool@outlook.com">place-stake-pool@outlook.com</a><br>
+</body>
+</html>
