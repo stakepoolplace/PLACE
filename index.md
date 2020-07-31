@@ -1,7 +1,7 @@
 <html>
 <body>
 Pledge locked for 10 years, 24/7/365 Uptime. Pool based on a high availability Debian 10 server hosted in datacenter France OVH. 
-Support contact available on :<br>
+Support contact available on :<br><br>
 <ul>
 <li>Twitter : <a href="https://twitter.com/ThePlaceForAda">ThePlaceForAda</a></li>
 <li>Telegram : <a href="https://t.me/PlacePool247SupportGroup">t.me/PlacePool247SupportGroup</a> (answer max. in 2 hours).</li>
