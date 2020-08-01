@@ -6,6 +6,7 @@ Support contact available on :
 <li>Twitter : <a href="https://twitter.com/ThePlaceForAda">ThePlaceForAda</a></li>
 <li>Telegram : <a href="https://t.me/PlacePool247SupportGroup">t.me/PlacePool247SupportGroup</a> (answer max. in 2 hours).</li>
 </ul>
+  <p>A nice surprise for my delegators : <b>Margin pool is only 1.4% and default fees are 340 ADA</b></p>
 <br>Operator with more than 20 years experience.<br>
 
 You can contact me also on : <a href="mailto:place-stake-pool@outlook.com">place-stake-pool@outlook.com</a><br>
