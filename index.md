@@ -8,7 +8,7 @@ Support contact available on :
 </ul>
   <blockquote>A nice surprise for my delegators : <b>Margin pool is only 1.4% and default fees are 340 ADA</b></blockquote>
 <br>Operator with more than 20 years experience.<br>
-
+<br>
 <p>You can contact me also on : <a href="mailto:place-stake-pool@outlook.com">place-stake-pool@outlook.com</a></p>
 </body>
 </html>
