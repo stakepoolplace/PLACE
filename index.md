@@ -10,8 +10,8 @@ Support contact available on :
   <b>Margin pool is only 1.4% and default fees are 340 ADA</b></blockquote>
   <blockquote>2020.08.02 > Another nice surprise : 
   <b>The plege will be increased to 20K ADA</b></blockquote>
-  <blockquote>2020.08.02 > What ? Another nice surprise ? of course : 
-  <b>The plege will be increased to 30K ADA</b></blockquote>
+  <blockquote>2020.08.03 > What ? Another nice surprise ? of course : 
+  <b>I set the pledge to 30K ADA</b></blockquote>
 <br>Operator with more than 20 years experience.<br>
 <br>
 <p>You can contact me also on : <a href="mailto:place-stake-pool@outlook.com">place-stake-pool@outlook.com</a></p>
