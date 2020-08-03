@@ -14,6 +14,6 @@ Support contact available on :
   <b>I set the pledge to 30K ADA</b></blockquote>
 <br>Operator with more than 20 years experience.<br>
 <br>
-<p>You can contact me also on : <a href="mailto:place-stake-pool@outlook.com">place-stake-pool@outlook.com</a></p>
+<h3>Email at <a href="mailto:place-stake-pool@outlook.com">place-stake-pool@outlook.com</a></h3>
 </body>
 </html>
