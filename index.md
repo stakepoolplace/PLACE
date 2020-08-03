@@ -11,7 +11,7 @@ Support contact available on :
   <blockquote>2020.08.02 > Another nice surprise : 
   <b>The plege will be increased to 20K ADA</b></blockquote>
   <blockquote>2020.08.03 > What ? Another nice surprise ? of course : 
-  <b>I set the pledge to 30K ADA</b></blockquote>
+  <b>I pledge to 30K ADA</b></blockquote>
 <br>Operator with more than 20 years experience.<br>
 <br>
 <h3>Email at <a href="mailto:place-stake-pool@outlook.com">place-stake-pool@outlook.com</a></h3>
