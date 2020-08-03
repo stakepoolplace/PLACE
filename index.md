@@ -11,7 +11,7 @@ Support contact available on :
   <blockquote>2020.08.02 > Another nice surprise : 
   <b>The plege will be increased to 20K ADA</b></blockquote>
   <blockquote>2020.08.03 > The better is : 
-  <b>You will find in here always nice suprise on the duration of 10 years.</b></blockquote>
+  <b>You will find in here always nice suprises on the duration of 10 years.</b></blockquote>
 <br>Operator with more than 20 years experience.<br>
 <br>
 <h3>Email at <a href="mailto:place-stake-pool@outlook.com">place-stake-pool@outlook.com</a></h3>
