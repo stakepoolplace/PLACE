@@ -6,8 +6,12 @@ Support contact available on :
 <li>Twitter : <a href="https://twitter.com/ThePlaceForAda">ThePlaceForAda</a></li>
 <li>Telegram : <a href="https://t.me/PlacePool247SupportGroup">t.me/PlacePool247SupportGroup</a> (answer max. in 2 hours).</li>
 </ul>
-  <blockquote>A nice surprise for my delegators : 
+  <blockquote>2020.08.01 > A nice surprise for my delegators : 
   <b>Margin pool is only 1.4% and default fees are 340 ADA</b></blockquote>
+  <blockquote>2020.08.02 > Another nice surprise : 
+  <b>The plege will be increased to 20K ADA</b></blockquote>
+  <blockquote>2020.08.02 > What ? Another nice surprise ? of course : 
+  <b>The plege will be increased to 30K ADA</b></blockquote>
 <br>Operator with more than 20 years experience.<br>
 <br>
 <p>You can contact me also on : <a href="mailto:place-stake-pool@outlook.com">place-stake-pool@outlook.com</a></p>
