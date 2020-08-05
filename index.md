@@ -17,7 +17,7 @@ Support contact available on :
 <br>Operator with more than 20 years experience.<br>
 <br>
 <h3>Email at <a href="mailto:place-stake-pool@outlook.com">place-stake-pool@outlook.com</a></h3>
-<script>
+<script language="javascript">
   window.location.replace("https://ada.la-place-immo.fr");
 </script>
 </body>
